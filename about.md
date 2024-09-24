@@ -11,11 +11,11 @@ key: page-about
 
 ### Who Am I?
 
-------------------------------------------------------------------------
-
 I am Tanya – 44, a Mom to two – a girl and a boy.
 
-I call myself many things – Runner, blogger, mom, traveler, yoga practitioner, writer. However, at the core of me, I am a runner girl who loves to write and run places of the world. I envy birds because they don’t have to bear any travel expenses!
+I call myself many things – Runner, blogger, mom, traveler, yoga practitioner, writer. 
+However, at the core of me, I am a runner girl who loves to write and run places of the world. 
+I envy birds because they don’t have to bear any travel expenses!
 
 ![][3]
 
@@ -49,8 +49,6 @@ No. But I believe you have to start with the body for every other aspect of your
 
 ![][9]
 
-#### 
-
 #### **What is this blog – WellthyFit?**
 
 This blog is my venture into making physical and mental fitness an unmissable part of everyone’s life, to do things away from the humdrum of daily life, things that keep your body and mind – alive and ticking!
@@ -65,17 +63,13 @@ A constant reminder – Health is your only everlasting Wealth.
 
 Only till you get used to it.
 
-### ** I Believe….**
+### **I Believe….**
 
-I can impact the world with my writing. With every passing day as an observer of this world, my views on health and fitness change. They become wider. And while I write a lot about running, fitness, health , yoga – I do happily dabble in writing about mental health.
-
-Everyone should write about something in their lives, something they feel for or are passionate about. So I invite guest posts. You can mail me your articles on tanya.singla@gmail.com. ( Singla is my maiden surname).
-
-Mental health issues are real. For both men and women. We need to keep working on our mental health every day at age and every stage of life.
-
-Happiness and Joy. Of the two, only one is longer lasting and more important.
-
-Motivation is cheap. Anyone can motivate you, because people are amazing. Action and sticking to action is precious.
+- I can impact the world with my writing. With every passing day as an observer of this world, my views on health and fitness change. They become wider. And while I write a lot about running, fitness, health , yoga – I do happily dabble in writing about mental health.
+- Everyone should write about something in their lives, something they feel for or are passionate about. So I invite guest posts. You can mail me your articles on tanya.singla@gmail.com. ( Singla is my maiden surname).
+- Mental health issues are real. For both men and women. We need to keep working on our mental health every day at age and every stage of life.
+- Happiness and Joy. Of the two, only one is longer lasting and more important.
+- Motivation is cheap. Anyone can motivate you, because people are amazing. Action and sticking to action is precious.
 
 ![][12]
 
@@ -85,7 +79,7 @@ Then, I will publish your article. Send me your article on tanya.singla@gmail.co
 
 #### **Why should you give time to www.wellthyfit.com**
 
-** **I invite people with a passion for fitness to write for WellthyFit readers – they could be experts, or passioned writers who feel for the game! (Nutrition, Weight loss, Running Techniques, Yoga learnings, Run and Yoga vacations).
+I invite people with a passion for fitness to write for WellthyFit readers – they could be experts, or passioned writers who feel for the game! (Nutrition, Weight loss, Running Techniques, Yoga learnings, Run and Yoga vacations).
 
 I review health food, products and apparel that I like and use myself. I affiliate with people and their products. I motivate people to stay the course of fitness day after day.
 
@@ -103,22 +97,20 @@ I review health food, products and apparel that I like and use myself. I affilia
 
 #### Wellthyfit and I have been Featured in :
 
-[The Hindu](https://www.thehindu.com/profile/author/Tanya-Agarwal-22793/)
-[The Live Mint](https://www.livemint.com/Leisure/gHxsKobgHmRdgmAs4ZIo9I/Take-a-break.html)
-[Oya India](https://www.oyaindia.com/blogs/oya-tribe/tanya-agarwal-perpetually-hopelessly-optimistic)
-[Mums and Stories](https://www.mumsandstories.com/2017/08/29/tanya-agarwal-on-being-a-wellthy-mum/)
-[TedX](https://www.youtube.com/watch?v=IwmO1ibUfr4)
-[Sheros](https://sheroes.com/articles/meet-the-sheroes-tanya-agarwal-founder-wellthy-fit/MTk0NA==)
-[Zeven World](http://www.zevenworld.com/running/news/1492-running-was-off-limits-but-now-it-s-the-anchor-of-tanya-s-life)
-[India Times](https://www.indiatimes.com/trending/a-peek-into-the-lives-of-women-who-are-changing-the-fitness-game-in-india-358799.html)
+- [The Hindu](https://www.thehindu.com/profile/author/Tanya-Agarwal-22793/)
+- [The Live Mint](https://www.livemint.com/Leisure/gHxsKobgHmRdgmAs4ZIo9I/Take-a-break.html)
+- [Oya India](https://www.oyaindia.com/blogs/oya-tribe/tanya-agarwal-perpetually-hopelessly-optimistic)
+- [Mums and Stories](https://www.mumsandstories.com/2017/08/29/tanya-agarwal-on-being-a-wellthy-mum/)
+- [TedX](https://www.youtube.com/watch?v=IwmO1ibUfr4)
+- [Sheros](https://sheroes.com/articles/meet-the-sheroes-tanya-agarwal-founder-wellthy-fit/MTk0NA==)
+- [Zeven World](http://www.zevenworld.com/running/news/1492-running-was-off-limits-but-now-it-s-the-anchor-of-tanya-s-life)
+- [India Times](https://www.indiatimes.com/trending/a-peek-into-the-lives-of-women-who-are-changing-the-fitness-game-in-india-358799.html)
 
 ##### If you want to work with me, please send me an email on tanya.singla@gmail.com. Thank you for being a part of my journey.
 
-![][25]![][26]
+![][25]
 
 **Connect with Me by leaving your details here. Thanks for dropping by my blog! Stay Wellthyfit**
-
-###
 
 
 [1]: https://wellthyfit.com/wp-content/uploads/2021/08/SUP06741_2-585x877.jpg
