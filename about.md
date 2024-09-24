@@ -17,7 +17,7 @@ I am Tanya – 44, a Mom to two – a girl and a boy.
 
 I call myself many things – Runner, blogger, mom, traveler, yoga practitioner, writer. However, at the core of me, I am a runner girl who loves to write and run places of the world. I envy birds because they don’t have to bear any travel expenses!
 
-![][3]![][4]
+![][3]
 
 I enjoy running half and full marathons. It’s the training that keeps me very excited, I enjoy the monotony of the road, and the stillness of the trails, and I come alive from feeling dead after my long runs.
 
@@ -103,23 +103,16 @@ I review health food, products and apparel that I like and use myself. I affilia
 
 #### Wellthyfit and I have been Featured in :
 
- ( Out logo of The Hindu)
+[The Hindu](https://www.thehindu.com/profile/author/Tanya-Agarwal-22793/)
+[The Live Mint](https://www.livemint.com/Leisure/gHxsKobgHmRdgmAs4ZIo9I/Take-a-break.html)
+[Oya India](https://www.oyaindia.com/blogs/oya-tribe/tanya-agarwal-perpetually-hopelessly-optimistic)
+[Mums and Stories](https://www.mumsandstories.com/2017/08/29/tanya-agarwal-on-being-a-wellthy-mum/)
+[TedX](https://www.youtube.com/watch?v=IwmO1ibUfr4)
+[Sheros](https://sheroes.com/articles/meet-the-sheroes-tanya-agarwal-founder-wellthy-fit/MTk0NA==)
+[Zeven World](http://www.zevenworld.com/running/news/1492-running-was-off-limits-but-now-it-s-the-anchor-of-tanya-s-life)
+[India Times](https://www.indiatimes.com/trending/a-peek-into-the-lives-of-women-who-are-changing-the-fitness-game-in-india-358799.html)
 
- ( The Live Mint)
-
- (Oya India)
-
- (mums and Stories)
-
- (Tedx)
-
- (Sheroes)
-
- (Zeven world)
-
- (India times)
-
-##### If you want to work with me, please send me an email on [[email protected]][24]. Thank you for being a part of my journey.
+##### If you want to work with me, please send me an email on tanya.singla@gmail.com. Thank you for being a part of my journey.
 
 ![][25]![][26]
 
