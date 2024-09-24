@@ -5,13 +5,11 @@ key: page-about
 ---
 
 
-[Source](https://wellthyfit.com/tanya-agarwal-wellthyfit/ "Permalink to Tanya Agarwal Yoga & Run blogger WellthyFit")
-
-# Tanya Agarwal Yoga & Run blogger WellthyFit
+![][1]
 
 ## Welcome to Wellthyfit
 
-### **![][1]![][2]Who Am I?**
+### Who Am I?
 
 ------------------------------------------------------------------------
 
@@ -29,7 +27,7 @@ Fitness is my life, first by choice and then by default. I don’t have to make 
 
 I constantly hope and try to reach moms/ women and sometimes men too of all ages and shapes to think about staying fit, healthy, and strong, despite jobs, families, and life.
 
-![][5]![][6]
+![][5]
 
 #### **Who I am not?**
 
@@ -39,7 +37,7 @@ Not to confuse me with a Running Coach/ / Nutritionist/ Dietitian! And definitel
 
 A Management Graduate who while working in corporates figured that she actually loves teaching. I coach students for GMAT and SAT exams. I have done this for 13 years straight. I create content, infact I breathe life into the words I weave for various organisations who can’t find the best words for what they do. I love writing, staying fit and observing life. So I decided to also start my own blog webpage.
 
-![][7]![][8]
+![][7]
 
 #### **What is the meaning of Wellthyfit?**
 
@@ -49,7 +47,7 @@ It means – Good Health (mentally too) and a Fit You – is your only everlasti
 
 No. But I believe you have to start with the body for every other aspect of your well-being to start feeling the changes and the growth it needs. It’s always the physical aspect first.
 
-![][9]![][10]
+![][9]
 
 #### 
 
@@ -71,7 +69,7 @@ Only till you get used to it.
 
 I can impact the world with my writing. With every passing day as an observer of this world, my views on health and fitness change. They become wider. And while I write a lot about running, fitness, health , yoga – I do happily dabble in writing about mental health.
 
-Everyone should write about something in their lives, something they feel for or are passionate about. So I invite guest posts. You can mail me your articles on [\[email protected\]][11]. ( Singla is my maiden surname).
+Everyone should write about something in their lives, something they feel for or are passionate about. So I invite guest posts. You can mail me your articles on tanya.singla@gmail.com. ( Singla is my maiden surname).
 
 Mental health issues are real. For both men and women. We need to keep working on our mental health every day at age and every stage of life.
 
@@ -79,11 +77,11 @@ Happiness and Joy. Of the two, only one is longer lasting and more important.
 
 Motivation is cheap. Anyone can motivate you, because people are amazing. Action and sticking to action is precious.
 
-![][12]![][13]
+![][12]
 
 #### Do you love writing? Have a reason to reach out to the world?
 
-Then, I will publish your article. Send me your article on [[email protected]][14]
+Then, I will publish your article. Send me your article on tanya.singla@gmail.com
 
 #### **Why should you give time to www.wellthyfit.com**
 
@@ -130,7 +128,7 @@ I review health food, products and apparel that I like and use myself. I affilia
 ###
 
 
-[1]: https://wellthyfit.com/wp-content/uploads/2020/03/play.png
+[1]: https://wellthyfit.com/wp-content/uploads/2021/08/SUP06741_2-585x877.jpg
 [2]: https://wellthyfit.com/wp-content/uploads/2020/03/play.png
 [3]: https://wellthyfit.com/wp-content/uploads/2020/03/me-ndm-1.jpg
 [4]: https://wellthyfit.com/wp-content/uploads/2020/03/me-ndm-1.jpg
